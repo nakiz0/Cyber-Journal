@@ -355,7 +355,7 @@ If no secondary DNS server exists, disable zone transfers completely.
 
 - Information Disclosure
 - Easier Reconnaissance
-- Increased Attack Surf
+- Increased Attack Surfa
 - Exposure of Internal Infrastructure
 
 ---
